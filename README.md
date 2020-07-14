@@ -24,7 +24,7 @@
 
   ![alt text](images/app_vs_amount.png "Time on App vs Yearly Amount Spent")
 
-* However, the feature which is most correlated with *Yearly Amount Spent* is the *Length of Membership*, as shown in the following figure with a coefficient value of 0.81. 
+* However, the feature which is most correlated with *Yearly Amount Spent*, is the *Length of Membership*, as shown in the following figure with a coefficient value of 0.81. 
   
   ![alt text](images/length_vs_amount.png "Length of Membership vs Yearly Amount Spent")
 
