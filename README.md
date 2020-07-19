@@ -2,13 +2,13 @@
 
 ## Overview
 
-* This analysis is related to an online-based clothing seller where the seller also conducts in-store clothing style/advice sessions. Once a customer has a session with a peronal stylist at the store, the customer has the opportunity to make a purchase online either via mobile app or website. 
+* This analysis is related to an online-based clothing seller where the seller also conducts in-store clothing style/advice sessions. Once a customer has a session with a personal stylist at the store, the customer has the opportunity to make a purchase online either via mobile app or website. 
 * In this analysis, the main goal is to apply Linear Regression in an attempt to identify whether the seller must focus on his/her mobile application or his/her website (necessary features are available in the dataset)
   
 ## The Dataset
 
 * The dataset consists of 500 records of past data related to the numerical and non-numerical properties which are relevant for identifying the user experience each customer has had in the past.
-* The non-numerical properies are *Email*, *Address* and user's color *Avatar*.
+* The non-numerical properties are *Email*, *Address* and user's color *Avatar*.
 * The numerical properties are formed by the *Avg. Session Length* (Average session length of in-store style advice sessions), *Time on App* (Average time spent on App in minutes), *Time on Website* (Average time spent on Website in minutes), *Length of Membership* (How many years the customer has been a customer of the seller), and *Yearly Amount Spent* (Amount spent yearly by each customer).
 * For the analysis, only the numerical features were considered because of their quantitative nature. As such, the features *Avg. Session Length*, *Time on App*, *Time on Website*, *Length of Membership*, and *Yearly Amount Spent* were considered.
 
